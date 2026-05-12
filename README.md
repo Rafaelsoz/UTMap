@@ -1,6 +1,6 @@
 # UTMap: Triplet Neural Network for Uncertainty Medical Image Analysis
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)](https://pytorch.org/)
 [![Paper](https://img.shields.io/badge/Paper-ENIAC%202025-green.svg)](https://sol.sbc.org.br/index.php/eniac/article/view/38795)
 [![DOI](https://img.shields.io/badge/DOI-10.5753%2Feniac.2025.14372-blue.svg)](https://doi.org/10.5753/eniac.2025.14372)
